@@ -1,0 +1,1 @@
+Calculates the kernel for a gaussian distribution, which can be used in shaders among other things. 
